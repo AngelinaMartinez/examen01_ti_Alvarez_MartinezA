@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>examen01_ti_Alvarez_Martinez</id>
+    <version>1.0.0</version>
+    <authors>examen01_ti_Alvarez_Martinez</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Tecnologias y desarrollo web\Solution1\examen01_ti_Alvarez_Martinez\bin\Debug\net8.0\examen01_ti_Alvarez_Martinez.dll" target="lib\net8.0\examen01_ti_Alvarez_Martinez.dll" />
+  </files>
+</package>
