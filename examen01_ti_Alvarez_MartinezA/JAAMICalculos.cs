@@ -8,6 +8,8 @@ namespace examen01_ti_Alvarez_MartinezA
 {
     public  interface JAAMICalculos
     {
+        double JAAMCalcularArea();
+        double JAAMCalcularVolumen();
 
     }
 }

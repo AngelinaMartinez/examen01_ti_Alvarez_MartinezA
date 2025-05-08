@@ -12,3 +12,17 @@ C:\Tecnologias y desarrollo web\Solution1\examen01_ti_Alvarez_MartinezA\obj\Debu
 C:\Tecnologias y desarrollo web\Solution1\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.pdb
 C:\Tecnologias y desarrollo web\Solution1\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.genruntimeconfig.cache
 C:\Tecnologias y desarrollo web\Solution1\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\ref\examen01_ti_Alvarez_MartinezA.dll
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\bin\Debug\net8.0\examen01_ti_Alvarez_MartinezA.exe
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\bin\Debug\net8.0\examen01_ti_Alvarez_MartinezA.deps.json
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\bin\Debug\net8.0\examen01_ti_Alvarez_MartinezA.runtimeconfig.json
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\bin\Debug\net8.0\examen01_ti_Alvarez_MartinezA.dll
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\bin\Debug\net8.0\examen01_ti_Alvarez_MartinezA.pdb
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.AssemblyInfoInputs.cache
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.AssemblyInfo.cs
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.csproj.CoreCompileInputs.cache
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.dll
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\refint\examen01_ti_Alvarez_MartinezA.dll
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.pdb
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\examen01_ti_Alvarez_MartinezA.genruntimeconfig.cache
+C:\Tecnologias y desarrollo web\examen01_ti_Alvarez_MartinezA\examen01_ti_Alvarez_MartinezA\obj\Debug\net8.0\ref\examen01_ti_Alvarez_MartinezA.dll

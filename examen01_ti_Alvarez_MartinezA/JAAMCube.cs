@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace examen01_ti_Alvarez_MartinezA
 {
-    public class JAAMCube
+    public class JAAMCube : JAAMICalculos
     {
+        public double JAAMCalcularArea()
+        {
+            
+        }
+
+        public double JAAMCalcularVolumen()
+        {
+            
+        }
     }
 }
