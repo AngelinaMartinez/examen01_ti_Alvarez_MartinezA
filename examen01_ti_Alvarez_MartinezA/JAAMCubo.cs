@@ -6,16 +6,26 @@ using System.Threading.Tasks;
 
 namespace examen01_ti_Alvarez_MartinezA
 {
-    public class JAAMSquare : JAAMICalculos
+    public class JAAMCubo : JAAMICalculos
     {
+        private double lado;
+
+        public JAAMCubo(double lado)
+        {
+            this.lado = lado;
+        }
+
         public double JAAMCalcularArea()
         {
-          
+            return 6 * Math.Pow(lado, 2);
         }
 
         public double JAAMCalcularVolumen()
         {
-            throw new NotImplementedException();
+            return Math.Pow(lado, 3);
         }
     }
+
 }
+}
+ 

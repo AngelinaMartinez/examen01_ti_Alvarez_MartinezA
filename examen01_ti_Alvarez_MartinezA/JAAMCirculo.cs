@@ -7,18 +7,23 @@ using System.Threading.Tasks;
 
 namespace examen01_ti_Alvarez_MartinezA
 {
-    public class JAAMCircle : JAAMICalculos
+    public class JAAMCirculo : JAAMICalculos
     {
+        private double radio;
+
+        public JAAMCirculo(double radio)
+        {
+            this.radio = radio;
+        }         
+
         public double JAAMCalcularArea()
         {
-           
-            //pi*radio al cuadrado 
-            
+            return Math.PI * Math.Pow(radio, 2);
         }
-
+        
         public double JAAMCalcularVolumen()
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException("El círculo no tiene volumen.");
         }
     }
 }

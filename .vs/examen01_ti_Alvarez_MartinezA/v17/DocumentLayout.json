@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|c:\\tecnologias y desarrollo web\\examen01_ti_alvarez_martineza\\examen01_ti_alvarez_martineza\\jaamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|solutionrelative:examen01_ti_alvarez_martineza\\jaamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|c:\\tecnologias y desarrollo web\\examen01_ti_alvarez_martineza\\examen01_ti_alvarez_martineza\\jaamsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|solutionrelative:examen01_ti_alvarez_martineza\\jaamsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|c:\\tecnologias y desarrollo web\\examen01_ti_alvarez_martineza\\examen01_ti_alvarez_martineza\\jaamsherpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|solutionrelative:examen01_ti_alvarez_martineza\\jaamsherpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|c:\\tecnologias y desarrollo web\\examen01_ti_alvarez_martineza\\examen01_ti_alvarez_martineza\\jaamcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|solutionrelative:examen01_ti_alvarez_martineza\\jaamcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|c:\\tecnologias y desarrollo web\\examen01_ti_alvarez_martineza\\examen01_ti_alvarez_martineza\\jaamicalculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|solutionrelative:examen01_ti_alvarez_martineza\\jaamicalculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|c:\\tecnologias y desarrollo web\\examen01_ti_alvarez_martineza\\examen01_ti_alvarez_martineza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F218B8E-44DD-462B-A868-984763BCEA21}|examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA.csproj|solutionrelative:examen01_ti_alvarez_martineza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA - copia\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examen01_ti_Alvarez_MartinezA - copia\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,80 +42,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JAAMICalculos.cs",
-              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMICalculos.cs",
-              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA\\JAAMICalculos.cs",
-              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMICalculos.cs",
-              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA\\JAAMICalculos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:54:28.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JAAMCube.cs",
-              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMCube.cs",
-              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA\\JAAMCube.cs",
-              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMCube.cs",
-              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA\\JAAMCube.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:52:03.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JAAMSquare.cs",
-              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMSquare.cs",
-              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA\\JAAMSquare.cs",
-              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMSquare.cs",
-              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA\\JAAMSquare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:50:26.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JAAMSherpe.cs",
-              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMSherpe.cs",
-              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA\\JAAMSherpe.cs",
-              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMSherpe.cs",
-              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA\\JAAMSherpe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:42:00.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JAAMCircle.cs",
-              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMCircle.cs",
-              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA\\JAAMCircle.cs",
-              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\JAAMCircle.cs",
-              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA\\JAAMCircle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA - copia\\Program.cs",
+              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA - copia\\Program.cs",
+              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA - copia\\Program.cs",
+              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA - copia\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:41:42.006Z",
+              "WhenOpened": "2025-05-08T16:17:28.02Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\Program.cs",
-              "RelativeDocumentMoniker": "examen01_ti_Alvarez_MartinezA\\Program.cs",
-              "ToolTip": "C:\\Tecnologias y desarrollo web\\examen01_ti_Alvarez_MartinezA\\examen01_ti_Alvarez_MartinezA\\Program.cs",
-              "RelativeToolTip": "examen01_ti_Alvarez_MartinezA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:38:30.231Z"
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
